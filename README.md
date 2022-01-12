@@ -1,4 +1,4 @@
-# library-theodinproject
+Library
 
 Proyecto de librería para el curso de Javascript ofrecido por TheOdinProject.
 
